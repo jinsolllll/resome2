@@ -1,0 +1,15 @@
+{
+  "folders": [
+    {
+      "name": "광고인",
+      "path": ".",
+    },
+    {
+      "name": "궁전제과",
+      "path": "../궁전제과",
+    },
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "광고인",
+  },
+}
